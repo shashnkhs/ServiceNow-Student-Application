@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 11:28:08</sys_created_on>
+        <sys_id>0ab5e45a2f451110223051072799b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_820118_stds_meetingss.x_820118_stds.meetingss_user</sys_name>
+        <sys_package display_value="Student App" source="x_820118_stds">467f40a92f381110e3f1d0e62799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student App">467f40a92f381110e3f1d0e62799b6f7</sys_scope>
+        <sys_security_acl display_value="x_820118_stds_meetingss">02b5e45a2f451110223051072799b6cf</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0ab5e45a2f451110223051072799b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 11:28:08</sys_updated_on>
+        <sys_user_role display_value="x_820118_stds.meetingss_user" name="x_820118_stds.meetingss_user">a9b5241a2f451110223051072799b691</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="student_name_demo" label="Student Name demo" language="en" table="x_820118_stds_meetingss">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>student_name_demo</element>
+            <help/>
+            <hint/>
+            <label>Student Name demo</label>
+            <language>en</language>
+            <name>x_820118_stds_meetingss</name>
+            <plural>Student Name demos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-05 09:13:46</sys_created_on>
+            <sys_id>1d2a52f62f099110223051072799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Student Name demo</sys_name>
+            <sys_package display_value="Student App" source="x_820118_stds">467f40a92f381110e3f1d0e62799b6f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student App">467f40a92f381110e3f1d0e62799b6f7</sys_scope>
+            <sys_update_name>sys_documentation_x_820118_stds_meetingss_student_name_demo_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-05 09:13:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

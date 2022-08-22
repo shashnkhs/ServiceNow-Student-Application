@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>download</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Student Catalog">829275d22f701110e3f1d0e62799b697</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">137014902f951110223051072799b6a2</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-29 11:41:29</sys_created_on>
+        <sys_id>78d8baa82f415510e3f1d0e62799b69f</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Input Student Data</sys_name>
+        <sys_package display_value="Student App" source="x_820118_stds">467f40a92f381110e3f1d0e62799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student App">467f40a92f381110e3f1d0e62799b6f7</sys_scope>
+        <sys_update_name>sp_instance_link_78d8baa82f415510e3f1d0e62799b69f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:03:41</sys_updated_on>
+        <title>Input Student Data</title>
+        <type>url</type>
+        <url>https://dev80469.service-now.com/ss?id=sc_category&amp;sys_id=ef0230ad2f491110e3f1d0e62799b642&amp;catalog_id=-1&amp;spa=1</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=78d8baa82f415510e3f1d0e62799b69f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student App">467f40a92f381110e3f1d0e62799b6f7</application>
+        <file_path/>
+        <instance_id>2a092509db34fb808aea21c405961957</instance_id>
+        <instance_name>dev80469</instance_name>
+        <name>sp_instance_link_78d8baa82f415510e3f1d0e62799b69f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;download&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value="Student Catalog"&gt;829275d22f701110e3f1d0e62799b697&lt;/sc_cat_item&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;137014902f951110223051072799b6a2&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-07-29 11:41:29&lt;/sys_created_on&gt;&lt;sys_id&gt;78d8baa82f415510e3f1d0e62799b69f&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;Input Student Data&lt;/sys_name&gt;&lt;sys_package display_value="Student App" source="x_820118_stds"&gt;467f40a92f381110e3f1d0e62799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Student App"&gt;467f40a92f381110e3f1d0e62799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_78d8baa82f415510e3f1d0e62799b69f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-08-09 15:03:41&lt;/sys_updated_on&gt;&lt;title&gt;Input Student Data&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;https://dev80469.service-now.com/ss?id=sc_category&amp;amp;sys_id=ef0230ad2f491110e3f1d0e62799b642&amp;amp;catalog_id=-1&amp;amp;spa=1&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=78d8baa82f415510e3f1d0e62799b69f"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>165676160</payload_hash>
+        <record_name>Input Student Data</record_name>
+        <reverted_from/>
+        <source>677ac41e2f811110223051072799b666</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-09 15:03:41</sys_created_on>
+        <sys_id>829094902f951110223051072799b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182832207e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-09 15:03:41</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>8a90949097951110d7553db7971dfc9f</update_guid>
+        <update_guid_history>8a90949097951110d7553db7971dfc9f:165676160,0e9f8450c0951110ebb6dd3bfd10a3db:-731950323,76c0d852820511105b993fec6d47fdef:-880580926,90690496e3c111107c37b3584a8b85f9:-1868754574</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Input Student Data">61c39baa2fd15110223051072799b680</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-17 05:02:46</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>160fc2f189374c8aa48d76a88c7b3ee9</sys_id>
+        <sys_metadata>78d8baa82f415510e3f1d0e62799b69f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Input Student Data</sys_name>
+        <sys_package display_value="Student App" source="x_820118_stds">467f40a92f381110e3f1d0e62799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Student App">467f40a92f381110e3f1d0e62799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2bd7f344b49a4322b9ea904a7893b381</sys_scope_delete>
+        <sys_update_name>sp_instance_link_78d8baa82f415510e3f1d0e62799b69f</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_78d8baa82f415510e3f1d0e62799b69f">829094902f951110223051072799b6a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-17 05:02:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

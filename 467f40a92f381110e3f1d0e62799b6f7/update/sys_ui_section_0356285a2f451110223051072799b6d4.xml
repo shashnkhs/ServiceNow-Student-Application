@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0356285a2f451110223051072799b6d4" sys_domain="global" table="x_820118_stds_meetingss" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>roll_no</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-03 11:33:50</sys_created_on>
+            <sys_id>ad072c9a2f451110223051072799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_820118_stds_meetingss" sys_domain="global" view="Default view">0356285a2f451110223051072799b6d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-03 11:33:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meeting_time</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-03 11:33:50</sys_created_on>
+            <sys_id>a5072c9a2f451110223051072799b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_820118_stds_meetingss" sys_domain="global" view="Default view">0356285a2f451110223051072799b6d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-03 11:33:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stud_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-03 11:33:50</sys_created_on>
+            <sys_id>a9072c9a2f451110223051072799b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_820118_stds_meetingss" sys_domain="global" view="Default view">0356285a2f451110223051072799b6d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-03 11:33:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_name_demo</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-05 09:13:46</sys_created_on>
+            <sys_id>d12a16b62f099110223051072799b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_820118_stds_meetingss" sys_domain="global" view="Default view">0356285a2f451110223051072799b6d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-05 09:13:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_820118_stds_meetingss</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-03 11:30:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0356285a2f451110223051072799b6d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_820118_stds_meetingss</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student App" source="x_820118_stds">467f40a92f381110e3f1d0e62799b6f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student App">467f40a92f381110e3f1d0e62799b6f7</sys_scope>
+            <sys_update_name>sys_ui_section_0356285a2f451110223051072799b6d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-03 11:30:56</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

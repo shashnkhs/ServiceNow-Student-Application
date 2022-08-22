@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="meeting_time" label="meeting time" language="en" table="x_820118_stds_meetingss">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>meeting_time</element>
+            <help/>
+            <hint/>
+            <label>meeting time</label>
+            <language>en</language>
+            <name>x_820118_stds_meetingss</name>
+            <plural>meeting times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-03 11:33:49</sys_created_on>
+            <sys_id>95072c9a2f451110223051072799b688</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>meeting time</sys_name>
+            <sys_package display_value="Student App" source="x_820118_stds">467f40a92f381110e3f1d0e62799b6f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student App">467f40a92f381110e3f1d0e62799b6f7</sys_scope>
+            <sys_update_name>sys_documentation_x_820118_stds_meetingss_meeting_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-03 11:33:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

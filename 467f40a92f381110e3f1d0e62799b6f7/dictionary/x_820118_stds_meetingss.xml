@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="meetingss" max_length="40" name="x_820118_stds_meetingss" sizeclass="4" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="meeting time" max_length="40" name="meeting_time" type="calendar_date_time"/>
+        <element label="Rollno" max_length="40" name="roll_no" type="integer"/>
+        <element label="Student Name demo" max_length="32" name="student_name_demo" reference="x_820118_stds_student_result_table" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="student name" max_length="40" name="stud_name" type="string"/>
+        <index name="index">
+            <element name="student_name_demo"/>
+        </index>
+    </element>
+</database>

@@ -19,7 +19,7 @@
         <dynamic_ref_qual/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>meeting</field>
+        <field>meeting_time</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -51,7 +51,7 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table>x_820118_stds_student_result_table</record_producer_table>
+        <record_producer_table>x_820118_stds_meetingss</record_producer_table>
         <reference/>
         <reference_qual>undefined</reference_qual>
         <reference_qual_condition>undefined</reference_qual_condition>
@@ -60,7 +60,7 @@
         <save_script/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>false</show_help>
+        <show_help>true</show_help>
         <show_help_on_load>false</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
@@ -68,14 +68,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-01 04:40:28</sys_created_on>
         <sys_id>0cd4fc212f891110e3f1d0e62799b6ae</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>time of meeting scheduling?</sys_name>
         <sys_package display_value="Student App" source="x_820118_stds">467f40a92f381110e3f1d0e62799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Student App">467f40a92f381110e3f1d0e62799b6f7</sys_scope>
         <sys_update_name>item_option_new_0cd4fc212f891110e3f1d0e62799b6ae</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-01 07:37:07</sys_updated_on>
+        <sys_updated_on>2022-08-03 11:37:10</sys_updated_on>
         <table/>
         <tooltip/>
         <type>10</type>
